@@ -6,4 +6,5 @@ The "Simulated data" tables contain the results of simulating signals based on t
 
 __________________________________________________
 [1] DAMDID 2023 conference, yet to be published
+
 [2] Higher School of Economics (HSE): Monitoring The Quality of Enrolment in Russian Universities. URL: https://ege.hse.ru/
